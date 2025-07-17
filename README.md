@@ -1,4 +1,4 @@
-# SQL-project-for-analysis-of-music-company
+# SQL-advance-project-for-analysis-of-music-company
  
 Project Category: Advanced
 
