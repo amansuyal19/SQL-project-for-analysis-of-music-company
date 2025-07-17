@@ -1,6 +1,5 @@
 # SQL-project-for-analysis-of-music-company
-
-# Spotify Advanced SQL Project 
+ 
 Project Category: Advanced
 
 ## Overview
